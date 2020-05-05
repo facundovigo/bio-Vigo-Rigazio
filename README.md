@@ -1,2 +1,2 @@
-# bio-facundovigo
+# bio-Vigo-Rigazio
 Materia BioInformatica
